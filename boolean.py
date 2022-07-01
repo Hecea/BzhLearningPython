@@ -1,3 +1,3 @@
-#BOOLEAN type TRUE FALSE 
+#BOOLEAN type TRUE FALSE operateur NOT
 correct = True
-print(correct)
+print (not correct)
