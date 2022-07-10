@@ -12,3 +12,7 @@ print(temperatures)
 # tri sur liste 
 temperatures.sort()
 print(temperatures)
+# maximum
+print(max(temperatures))
+# minimum
+print(min(temperatures))
