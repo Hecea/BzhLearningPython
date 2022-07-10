@@ -16,3 +16,6 @@ print(temperatures)
 print(max(temperatures))
 # minimum
 print(min(temperatures))
+#len()
+nombre_de_jours_releves = len(temperatures)
+print(nombre_de_jours_releves)
