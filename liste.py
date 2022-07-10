@@ -9,3 +9,6 @@ temperatures.append(18)
 print(temperatures)
 temperatures.insert(0,45)
 print(temperatures)
+# tri sur liste 
+temperatures.sort()
+print(temperatures)
