@@ -21,3 +21,6 @@ nombre_de_jours_releves = len(temperatures)
 print(nombre_de_jours_releves)
 #count()
 print(temperatures.count(36))
+#keyword in
+temperatures_hautes = 40 in temperatures
+print(temperatures_hautes)
