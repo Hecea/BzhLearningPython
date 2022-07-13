@@ -7,3 +7,7 @@ print(type(False))
 # conversion de Float en Integer
 temperature = 39.5
 print(int(temperature))
+
+# conversion de int en float
+temperature = 39
+print(float(temperature))
