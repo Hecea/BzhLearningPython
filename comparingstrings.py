@@ -2,3 +2,5 @@
 print("python"=="python")
 print("python"!="HTML")
 
+
+# booleen a detailler
