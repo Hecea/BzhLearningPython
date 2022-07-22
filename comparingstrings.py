@@ -4,3 +4,4 @@ print("python"!="HTML")
 
 
 # booleen a detailler
+# voir fichier bool
