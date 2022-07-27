@@ -1,4 +1,5 @@
 # .count()
 
-taille = ["xl","s", "M"]
-          print(taille.count(M))
+taille = ["XL", "S", "M", "M"]
+print(taille.count("S"))
+                                                                                            
