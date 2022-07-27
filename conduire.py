@@ -1,10 +1,9 @@
-""""# condion if  elif  else
+# condition if  elif  else
 direction = "a droite"
 
-if direction == "a droite"
+if direction == "a droite":
     print("Tourner a droite")
-    elif direction == 'a gauche'
+elif direction == 'a gauche':
     print("Tourner a gauche")
-else :
+else:
     print("Aller tout droit")
-"""
