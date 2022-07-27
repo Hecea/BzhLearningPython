@@ -5,5 +5,5 @@
 
 #  for  ... in pour parcourir le tuple
 
-livres_sur_letagere = ('Hugo" , " Moliere" , "Zola")
+livres_sur_letagere = ("Hugo" , " Moliere" , "Zola")
                        
