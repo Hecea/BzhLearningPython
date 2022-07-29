@@ -2,7 +2,7 @@
 def compter_les_allures_naturelles(allures):
     print(len(allures))
     allures = ["trot",'"galop","pas","reculer"]
-    print(allures)
+ #  print(allures)
 
 
 
