@@ -1,6 +1,8 @@
 # definition de fonction  exemple avec calcul
 
-def calculer_somme(x + y)
+def calculer_somme(Z , Y) :
+    print(Z + Y)
+calculer_somme(3 , 2)
 
 def ajouter_neuf_a_ParametreN (ParametreN) :
     print(ParametreN + 9)
