@@ -1,5 +1,6 @@
 # definition de fonction  exemple avec calcul
 
+# somme
 def calculer_somme(Z , Y) :
     print(Z + Y)
 calculer_somme(3 , 2)
@@ -15,6 +16,7 @@ def ajouter_trois_a_variableN (variableN) :
 
 ajouter_trois_a_variableN (21)
 
+# comparaison, condition
 def peut_voter(age) :
     if age >= 18 :
         print(" Inscription sur la liste electorale")
