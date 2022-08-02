@@ -15,3 +15,8 @@ def ajouter_trois_a_variableN (variableN) :
 
 ajouter_trois_a_variableN (21)
 
+def peut_voter(age) :
+    if age >= 18 :
+        print(" Inscription sur la liste electorale")
+
+peut_voter(21)
