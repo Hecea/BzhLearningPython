@@ -15,3 +15,5 @@ class Pratiquer:
     print(sport, frequence, duree)
 
     # def faire_sport(self, nom, frequence, duree):
+
+# polymorphisme
