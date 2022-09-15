@@ -1,1 +1,1 @@
-# exemple pedagigique creation de classe
+# exemple pedagogique creation de classe
