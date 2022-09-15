@@ -1,0 +1,1 @@
+# exemple pedagigique creation de classe
