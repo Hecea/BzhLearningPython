@@ -16,4 +16,5 @@ class Pratiquer:
 
     # def faire_sport(self, nom, frequence, duree):
 
-# polymorphisme
+
+# polymorphisme implementations methodes class et sous class
