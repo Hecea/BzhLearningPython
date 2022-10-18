@@ -6,4 +6,4 @@ else:
     print("Vous avez le temps pour une sortie a velo")
 
 
-
+# voir la fonction print apres test de variables de tous les types
